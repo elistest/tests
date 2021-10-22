@@ -1,1 +1,5 @@
 hey this is a new file!
+
+Today is a good day! I'm writing this line hahahaha!
+
+And another line!
